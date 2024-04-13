@@ -1,0 +1,2 @@
+#define DHT_SENSOR DHT22
+//define DHT_SENSOR DHT11
